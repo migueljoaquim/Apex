@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+background-image: url(/img/world.png);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100%;
+    
+}
+header{
+    background-color: black;
+    height: 100px;
+    color: aqua;
+
+
+
+}
+
+
+.personagen{
+    position: absolute;
+    top: 19%;
+    width: 30%;
+    height: 81%;
+    left: 64%;
+}
+.logo{
+    position: absolute;
+    top: 15%;
+    left: 54.56%;
+    width: 40%;
+    height: 79%;
+}
+
+.loguinho{
+    position: absolute;
+    top: 78%;
+    left: 55%;
+    width: 17%;
+    height: 13%; 
+}
+
+.Apex{
+    position: absolute;
+    top: 30%;
+    left: 6%;
+    width: 15%;
+    height: 20%; 
+
+}
+
+.texto{
+    color: white;
+    font-size: 3vh;
+
+
+
+
+}
