@@ -11,17 +11,6 @@ background-size: 100%;
     
 }
 
-.conteiner{
-    
-
-    
-
-
-
-}
-
-
-
 
 header{
     background-color: black;
@@ -59,9 +48,45 @@ header{
     height: 13%; 
 }
 
+
+
+.vetor1{
+    position: absolute;
+    height: 6%;
+    width: 2%;
+    top: 3%;
+    left: 8.45%;
+
+    
+
+}
+
+.menu{
+    position: absolute;
+    top: 3.10%;
+    left: 9%;
+    width: 85%;
+    height: 6%;
+    
+
+}
+
+.vector2{
+    position: absolute;
+    top: 3%;
+    left: 92%;
+    height: 6%;
+    width: 3%;
+}
+.inicio{
+    position: absolute;
+    top: 4%;
+    left: 12%;
+}
+
 .Apex{
     position: absolute;
-    top: 30%;
+    top: 32%;
     left: 6%;
     width: 15%;
     height: 20%; 
@@ -70,30 +95,13 @@ header{
 
 .texto{
     position: absolute;
-    top: 50%;
+    top: 57%;
     left: 6%;
-    width: 15%;
+    width: 50%;
     height: 20%; 
+    font-weight: 100;
     color: white;
     font-size: 3vh;
-    
-}
-
-.vetor1{
-    
-
-}
-
-.menu{
-    height: 10%;
-    width: 70%;
-    margin-left: 10%;
-    margin-top: 0%;
-
-}
-
-
-.imagens{
-    display: ;
+    font-family: 'Oxanium', cursive;
 
 }
