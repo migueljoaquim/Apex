@@ -105,3 +105,35 @@ header{
     font-family: 'Oxanium', cursive;
 
 }
+
+.Retangulo{
+    position: absolute;
+    top: 71%;
+    left: 10%;
+    width: 14.65%;
+    height: 8%;
+
+}
+
+.pintado{
+    position: absolute;
+    top: 1%;
+    width: 100%;
+    height: 95%;
+    left: 0%;
+
+}
+.listra1{
+    position: absolute;
+    left: 0%;
+    top: 2%;
+    width: 35%;
+
+}
+.listra2{
+    position: absolute;
+    left: 65%;
+    top: 2%;
+    width: 35%;
+    
+}
