@@ -12,17 +12,30 @@ background-size: 100%;
 }
 
 
+
+
+
+
+
+
 header{
     background-color: black;
-    height: 30px;
-    color: aqua;
-
+    height: 30px;  
 }
 .icons{
     display: flex;
     justify-content: end;
 
 }
+
+
+
+
+
+
+
+
+
 
 
 .personagen{
@@ -50,15 +63,21 @@ header{
 
 
 
+
+
+
+
+
+
+
+
+
 .vetor1{
     position: absolute;
     height: 6%;
     width: 2%;
     top: 3%;
     left: 8.45%;
-
-    
-
 }
 
 .menu{
@@ -67,8 +86,6 @@ header{
     left: 9%;
     width: 85%;
     height: 6%;
-    
-
 }
 
 .vector2{
@@ -84,13 +101,22 @@ header{
     left: 12%;
 }
 
+
+
+
+
+
+
+
+
+
+
 .Apex{
     position: absolute;
     top: 32%;
     left: 6%;
     width: 15%;
     height: 20%; 
-
 }
 
 .texto{
@@ -103,16 +129,24 @@ header{
     color: white;
     font-size: 3vh;
     font-family: 'Oxanium', cursive;
-
 }
+
+
+
+
+
+
+
+
+
+
 
 .Retangulo{
     position: absolute;
-    top: 71%;
-    left: 10%;
+    top: 68%;
+    left: 6%;
     width: 14.65%;
     height: 8%;
-
 }
 
 .pintado{
@@ -121,19 +155,96 @@ header{
     width: 100%;
     height: 95%;
     left: 0%;
-
 }
+.vermelho1{
+    position: absolute;
+    top: 82%;
+    left: 0%;
+}
+
 .listra1{
     position: absolute;
     left: 0%;
     top: 2%;
     width: 35%;
-
 }
+.Letras{
+    position: absolute;
+    top: 38%;
+    left: 17%;
+}
+
 .listra2{
     position: absolute;
     left: 65%;
     top: 2%;
     width: 35%;
+}
+
+.branco1{
+    position: absolute;
+    top: 2%;
+    left: 25%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Retangulo2{
+    position: absolute;
+    top: 68%;
+    left: 22%;
+}
+.pintado2{
+    position: absolute;
+    left: 0%;
+    height: 95%;
+    width: 100%;
     
+}
+.listra3{
+    position: absolute;
+    left: 65%;
+    top: 2%;
+    width: 35%;
+}
+
+.listra4{
+    position: absolute;
+    left:0%;
+    top: 2%;
+    width: 35%;
+
+}
+
+.vermelho2{
+    position: absolute;
+    top: 82%;
+    left: 0%;
+}
+
+.branco2{
+    position: absolute;
+    top: 2%;
+    left: 25%;
+
+}
+
+.Letras2{
+    position: absolute;
+    top: 38%;
+    left: 10%;
+  
 }
